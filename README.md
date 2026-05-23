@@ -1,2 +1,2 @@
 # Data-Analysis-Dashboard
-Developed an interactive Excel dashboard to analyze policy performance and claims data, transforming raw transactional data into actionable business insights.
+Developed an interactive Power BI dashboard to monitor policy performance and claims data, transforming raw transactional insurance data into actionable business insights.
